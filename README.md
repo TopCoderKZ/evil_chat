@@ -1,24 +1,8 @@
-# README
+# Evil Chat App
+Modern Front-end in Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Guide to modern, modular, component-based approach to handling your presentation logic in Rails that does not depend on any front-end framework.
 
-Things you may want to cover:
+Followed a three-part tutorial to learn the bare minimum of up-to-date front-end.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://evilmartians.com/chronicles/evil-front-part-1
